@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "version": 1,
+    "sessions_count": 0,
+    "last_updated": ""
+  },
+  "user": {
+    "name": "",
+    "age": 0,
+    "gender": null,
+    "intro": null,
+    "language_pref": "hinglish",
+    "life_phase": null,
+    "known_facts": []
+  },
+  "relationship": {
+    "threads": [],
+    "inside_moments": [],
+    "relationship_note": "",
+    "emotional_history": ""
+  },
+  "content_signals": {
+    "topics_that_engaged": [],
+    "strong_opinions": [],
+    "content_preferences": {
+      "sports": [],
+      "shows": [],
+      "music": [],
+      "other": []
+    }
+  }
+}
